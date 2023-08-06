@@ -29,3 +29,8 @@ body{
     font-family: 'Amatic SC', cursive;
     font-family: 'Tinos', serif;
 }
+
+#socials{
+    position: absolute;
+    bottom: 8%;
+}
